@@ -1,8 +1,8 @@
 # LethalCompanyMods
 Mods for Everyone on Healy218 Twitch to play LethalCompany. All mods are QoL updates and do not break or "cheat" the game.
-Current amount of Mods: 26
+Current amount of Mods: 32
 
-BepInEx: https://github.com/BepInEx/BepInEx/releases/
+**BepInEx: https://github.com/BepInEx/BepInEx/releases/** REQUIREMENT
 
 40 player Mod: https://thunderstore.io/c/lethal-company/p/2018/LC_API/
 
@@ -54,6 +54,17 @@ Omniman: https://thunderstore.io/c/lethal-company/p/Flamango/OmniMan_Base_Suits/
 
 Vault Boy Suit: https://thunderstore.io/c/lethal-company/p/TeamClark/Vault_Boy_Suit/
 
+MountainDewMan: https://thunderstore.io/c/lethal-company/p/BrotherPig/MountainDewMan_Suits/
+
+Santa Suit: https://thunderstore.io/c/lethal-company/p/ViViKo/SantaSuit/
+
+Void Suit: https://thunderstore.io/c/lethal-company/p/VoidNW/VoidSuit/
+
+Clown Suit: https://thunderstore.io/c/lethal-company/p/Crabford/Clown_Suit/
+
+Chain Hang Low Item Shop: https://thunderstore.io/c/lethal-company/p/kidkool/ChainHangLow/
+
+Smile Suit: https://thunderstore.io/c/lethal-company/p/shackakahn/Smile_Suit/
 
 
 More to come***
