@@ -1,12 +1,20 @@
 # LethalCompanyMods
 Mods for Everyone on Healy218 Twitch to play LethalCompany. All mods are QoL updates and do not break or "cheat" the game.
-Current amount of Mods: 32
+Current amount of Mods: 34
 
 **BepInEx: https://github.com/BepInEx/BepInEx/releases/** REQUIREMENT
 
 40 player Mod: https://thunderstore.io/c/lethal-company/p/2018/LC_API/
 
 Bigger Lobby: https://thunderstore.io/c/lethal-company/p/bizzlemip/BiggerLobby/
+
+Hook Generator: https://thunderstore.io/c/lethal-company/p/Evaisa/HookGenPatcher/
+
+LethalThings Library: https://thunderstore.io/c/lethal-company/p/Evaisa/LethalLib/
+
+LethalThings: https://thunderstore.io/c/lethal-company/p/Evaisa/LethalThings/
+
+LCBetterSaves: https://thunderstore.io/c/lethal-company/p/Pooble/LCBetterSaves/
 
 Helmet Cams: https://thunderstore.io/c/lethal-company/p/RickArg/Helmet_Cameras/
 
@@ -35,10 +43,6 @@ Rust Suits: https://thunderstore.io/c/lethal-company/p/TeamClark/RustHazmatSuit/
 Health Metrics: https://thunderstore.io/c/lethal-company/p/matsuura/HealthMetrics/
 
 Too Many Suits: https://thunderstore.io/c/lethal-company/p/Verity/TooManySuits/ (last updated)
-
-LethalThings: https://thunderstore.io/c/lethal-company/p/Evaisa/LethalThings/
-
-LCBetterSaves: https://thunderstore.io/c/lethal-company/p/Pooble/LCBetterSaves/
 
 MoreBlood: https://thunderstore.io/c/lethal-company/p/FlipMods/MoreBlood/
 
