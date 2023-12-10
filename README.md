@@ -14,7 +14,12 @@ Change Max Items: https://thunderstore.io/c/lethal-company/p/Drakorle/MoreItems/
 More Emotes: https://thunderstore.io/c/lethal-company/p/Sligili/More_Emotes/
 More suits: https://thunderstore.io/c/lethal-company/p/x753/More_Suits/
 Shirtless: https://thunderstore.io/c/lethal-company/p/TeamClark/ShirtlessSuit/
-
-
+Glow Suits: https://thunderstore.io/c/lethal-company/p/Norman/GlowStickSuits/
+Rust Suits: https://thunderstore.io/c/lethal-company/p/TeamClark/RustHazmatSuit/
+Health Metrics: https://thunderstore.io/c/lethal-company/p/matsuura/HealthMetrics/
+Too Many Suits: https://thunderstore.io/c/lethal-company/p/Verity/TooManySuits/
+LethalThings: https://thunderstore.io/c/lethal-company/p/Evaisa/LethalThings/
+LCBetterSaves: https://thunderstore.io/c/lethal-company/p/Pooble/LCBetterSaves/
+MoreBlood: https://thunderstore.io/c/lethal-company/p/FlipMods/MoreBlood/
 
 More to come***
