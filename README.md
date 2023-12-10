@@ -1,5 +1,6 @@
 # LethalCompanyMods
 Mods for Everyone on Healy218 Twitch to play LethalCompany. All mods are QoL updates and do not break or "cheat" the game.
+Current amount of Mods: 26
 
 BepInEx: https://github.com/BepInEx/BepInEx/releases/
 
@@ -33,13 +34,26 @@ Rust Suits: https://thunderstore.io/c/lethal-company/p/TeamClark/RustHazmatSuit/
 
 Health Metrics: https://thunderstore.io/c/lethal-company/p/matsuura/HealthMetrics/
 
-Too Many Suits: https://thunderstore.io/c/lethal-company/p/Verity/TooManySuits/
+Too Many Suits: https://thunderstore.io/c/lethal-company/p/Verity/TooManySuits/ (last updated)
 
 LethalThings: https://thunderstore.io/c/lethal-company/p/Evaisa/LethalThings/
 
 LCBetterSaves: https://thunderstore.io/c/lethal-company/p/Pooble/LCBetterSaves/
 
 MoreBlood: https://thunderstore.io/c/lethal-company/p/FlipMods/MoreBlood/
+
+BigBossSuit: https://thunderstore.io/c/lethal-company/p/TeamClark/BigBossSuit/
+
+SpiderManSuit: https://thunderstore.io/c/lethal-company/p/Stoners/SpiderManSuitV2/
+
+Korps of Krieg Suit: https://thunderstore.io/c/lethal-company/p/TeamClark/Death_Korps_Of_Krieg_Suit/
+
+Glowstick: https://thunderstore.io/c/lethal-company/p/Asylud/Glowstick/
+
+Omniman: https://thunderstore.io/c/lethal-company/p/Flamango/OmniMan_Base_Suits/
+
+Vault Boy Suit: https://thunderstore.io/c/lethal-company/p/TeamClark/Vault_Boy_Suit/
+
 
 
 More to come***
